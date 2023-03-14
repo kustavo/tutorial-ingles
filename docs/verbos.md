@@ -16,7 +16,7 @@ Os verbos principais podem ser classificados em transitivos ou intransitivos e p
 
 Os verbos principais (_main verbs_) possuem neles mesmos o sentido semântico e ocupam uma posição relevante para o significado completo da frase:
 
-- _Diana went home early yesterday._ <small>(Diana foi cedo para a casa ontem.)</small>
+- _Diana went home early yesterday._ (Diana foi cedo para a casa ontem.)
 
 O verbo principal da frase é `go` (ir), e, como pode ser observado, ele tem sentido completo sozinho. Além disso, notamos que está conjugado no passado simples. No presente, seria:
 
@@ -31,39 +31,39 @@ Nesse exemplo, o verbo principal também não requer um auxiliar para completar 
 Os verbos principais podem ainda ser divididos em transitivos ou intransitivos, no que diz respeito se eles são acompanhados ou não de objeto, tal qual em português.
 
 - **Verbos intransitivos**: não são seguidos por objeto, mas podem ter complemento:
-    - _Something bad happened._ Algo ruim aconteceu.
-    - _He has arrived early_ Ele chegou cedo.
+    - _Something bad happened._ (Algo ruim aconteceu.)
+    - _He has arrived early_ (Ele chegou cedo.)
         - `early` (cedo) não é objeto, é adjunto adverbial.
 
 - **Verbos transitivos**: são acompanhados por um objeto:
-    - _She isn't watching TV._ Ela não está assistindo TV.
-    - _He drove his car._ Ele dirigiu o carro dele.
+    - _She isn't watching TV._ (Ela não está assistindo TV.)
+    - _He drove his car._ (Ele dirigiu o carro dele.)
 
 ### Verbos auxiliares
 
 Os verbos auxiliares (_auxiliary verbs_) existem em número reduzido na língua inglesa. Os principais são: `be`, `do`, `have`. Como apontado, esses verbos não têm um sentido semântico quando ocupam a posição de auxiliar. Destacamos esse aspecto, pois eles também ocorrem, na língua inglesa, na função de verbo principal:
 
 - **Be**: verbo principal - ser/estar
-    - _I am happy._ Eu sou feliz.
+    - _I am happy._ (Eu sou feliz.)
 
 - **Do**: verbo principal - fazer
-    - _She does her homework._ Ela faz a tarefa dela.
+    - _She does her homework._ (Ela faz a tarefa dela.)
 
 - **Have**: verbo principal - ter
-    - _They have a car._ Eles têm um carro.
+    - _They have a car._ (Eles têm um carro.)
 
 No entanto, esses mesmos verbos como auxiliares não possuem sentido próprio sem o verbo principal. Observe os seguintes exemplos:
 
-- _Laura was singing a beautiful song._ Laura estava cantando uma música bonita.
+- _Laura was singing a beautiful song._ (Laura estava cantando uma música bonita.)
     - O verbo `to be` no passado: `was`, nesta frase, é o verbo auxiliar do _past continuous_. Ele aparece na frase apenas para sinalizar que a frase está no passado contínuo e na terceira pessoa do singular.
 
-- _Do you spend a lot of time on the internet?_ Você gasta muito tempo na internet?
+- _Do you spend a lot of time on the internet?_ (Você gasta muito tempo na internet?)
     - O verbo `to do` aparece no início da frase para sinalizar que estamos diante de uma frase interrogativa, do presente simples e da segunda pessoa do singular. Sozinho, ele não possui sentido semântico.
 
-- _You didn't finish your sentence._ Você não terminou sua frase.
+- _You didn't finish your sentence._ (Você não terminou sua frase.)
     - Nesse exemplo, o verbo `to do` aparece antes do verbo principal (`finish`), em sua forma contraída `did + not`, indicando ser uma frase negativa.
 
-- _He has already been to the USA._ Ele já esteve nos Estados Unidos.
+- _He has already been to the USA._ (Ele já esteve nos Estados Unidos.)
     - Aqui, temos o verbo `to have` antes do verbo principal `to be`, que se apresenta na forma do particípio passado `been`, mostrando-nos uma frase do presente perfeito em inglês. Além disso, notamos que o verbo está flexionado na terceira pessoa do singular `has`. Esse tempo é formado pelo auxiliar `have + verbo principal` no particípio passado.
 
 Assim, podemos perceber que a principal diferença entre os verbos principais e os auxiliares está no sentido semântico que eles apresentam. Resumidamente, os verbos auxiliares expressam o tempo verbal de uma oração, se ela está na sua forma negativa ou interrogativa, por exemplo.
@@ -74,20 +74,20 @@ Quando aprendemos os tempos verbais (_verb tenses_) em inglês, percebemos imedi
 
 De maneira geral, podemos avaliá-los segundo o **aspecto** e o **tempo**, ou seja, pela temporalidade, pela duração e pela completude da ação. Acrescenta-se que podemos classificá-los em tempos do passado, do presente e do futuro, mais os aspectos: simples, contínuo, perfeito e perfeito contínuo. Abordaremos, no quadro seguinte, as 12 combinações possíveis dos tempos verbais em inglês.
 
-| Tempo verbal               | Exemplo                                                                                                                                                                                                                                                                                                                                                   | Uso                                                                                               |
-| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Simple present             | _I live in São Paulo._ (Eu moro em São Paulo.) <br> _I don't live in São Paulo._ (Eu não moro em São Paulo.) <br> _Do you live in São Paulo?_ (Você mora em São Paulo?)                                                                          | Hábitos, rotina e verdades/fatos.                                                                 |
-| Simple past                | _I lived in São Paulo._ (Eu morei em São Paulo.) <br> _I didn't live in São Paulo._ (Eu não morei em São Paulo.) <br> _Did you live in São Paulo?_ (Você morou em São Paulo?)                                                                   | Ações acabadas em um ponto específico do passado.                                                 |
-| Simple future              | _I will live in São Paulo._ (Eu morarei em São Paulo.) <br> _I won't live in São Paulo._ (Eu não morarei em São Paulo.) <br> _Will you live in São Paulo?_ (Você morará em São Paulo?)                                                           | Planos futuros, predições, decisões espontâneas.                                                  |
-| Present continuous         | _I am living in São Paulo._ (Eu estou morando em São Paulo.) <br> _I am not living in São Paulo._ (Eu não estou morando em São Paulo.) <br> _Are you living in São Paulo?_ (Você está morando em São Paulo?)                                     | Algo que acontece no mesmo momento de fala e situações temporárias.                               |
-| Past continuous            | _I was living in São Paulo._ (Eu estava morando em São Paulo.) <br> _I wasn't living in São Paulo._ (Eu não estava morando em São Paulo.) <br> _Were you living in São Paulo?_ (Você estava morando em São Paulo?)                               | Ações em progressão/temporárias no passado.                                                       |
-| Future continuous          | _I will be living in São Paulo_ (Eu estarei morando em São Paulo.) <br> _I won't be living in São Paulo_ (Eu não estarei morando em São Paulo.) <br> _Will you be living in São Paulo?_ (Você estará morando em São Paulo?)                     | Ações em progressão no futuro.                                                                    |
-| Present perfect            | _I have lived in São Paulo._ (Eu morei em São Paulo.) <br> _I haven't lived in São Paulo._ (Eu não morei em São Paulo.) <br> _Have you lived in São Paulo?_ (Você morou em São Paulo?)                                                             | Para falar de experiências ou ações passadas que têm conexão com o presente.                      |
-| Past perfect               | _I had lived in São Paulo._ (Eu tinha morado em São Paulo.) <br> _I hadn't lived in São Paulo._ (Eu não tinha morado em São Paulo.) <br> _Had you lived in São Paulo?_ (Você tinha morado em São Paulo?)                                          | Uma ação no passado que aconteceu antes de outra em um tempo específico.                          |
-| Future perfect             | _I will have lived in São Paulo._ (Eu terei morado em São Paulo.) <br> _I won't have lived in São Paulo._ (Eu não terei morado em São Paulo.) <br> _Will you have lived in São Paulo?_ (Você terá morado em São Paulo?)                            | Quando algo terá ocorrido no futuro.                                                              |
-| Present perfect continuous | _I have been living in São Paulo._ (Eu estou morando em São Paulo.) <br> _I haven't been living in São Paulo._ (Eu não estou morando em São Paulo.) <br> _Have you been living in São Paulo?_ (Você está morando em São Paulo?)                    | Usado para enfatizar a duração de uma ação em progresso até o momento da fala.                    |
-| Past perfect continuous    | _I had been living in São Paulo._ (Eu estava morando em São Paulo.) <br> _I hadn't been living in São Paulo._ (Eu não estava morando em São Paulo.) <br> _Had you been living in São Paulo?_ (Você estava morando em São Paulo?)                   | Ações que estavam em progresso no passado e foram interrompidas por outra ação no passado também. |
-| Future perfect continuous  | _I will have been living in São Paulo._ (Eu estarei morando em São Paulo.) <br> _I won't have been living in São Paulo._ (Eu não estarei morando em São Paulo.) <br> _Will you have been living in São Paulo?_ (Você estará morando em São Paulo?) | Ação que terá acontecido antes de um tempo no futuro.                                             |
+| Tempo verbal | Exemplo | Uso |
+| ------------ | ------- | --- |
+| Simple present | _I live in São Paulo._ (Eu moro em São Paulo.) <br> _I don't live in São Paulo._ (Eu não moro em São Paulo.) <br> _Do you live in São Paulo?_ (Você mora em São Paulo?) | Hábitos, rotina e verdades/fatos. |
+| Simple past| _I lived in São Paulo._ (Eu morei em São Paulo.) <br> _I didn't live in São Paulo._ (Eu não morei em São Paulo.) <br> _Did you live in São Paulo?_ (Você morou em São Paulo?) | Ações acabadas em um ponto específico do passado. |
+| Simple future | _I will live in São Paulo._ (Eu morarei em São Paulo.) <br> _I won't live in São Paulo._ (Eu não morarei em São Paulo.) <br> _Will you live in São Paulo?_ (Você morará em São Paulo?) | Planos futuros, predições, decisões espontâneas. |
+| Present continuous | _I am living in São Paulo._ (Eu estou morando em São Paulo.) <br> _I am not living in São Paulo._ (Eu não estou morando em São Paulo.) <br> _Are you living in São Paulo?_ (Você está morando em São Paulo?) | Algo que acontece no mesmo momento de fala e situações temporárias. |
+| Past continuous| _I was living in São Paulo._ (Eu estava morando em São Paulo.) <br> _I wasn't living in São Paulo._ (Eu não estava morando em São Paulo.) <br> _Were you living in São Paulo?_ (Você estava morando em São Paulo?) | Ações em progressão/temporárias no passado. |
+| Future continuous | _I will be living in São Paulo_ (Eu estarei morando em São Paulo.) <br> _I won't be living in São Paulo_ (Eu não estarei morando em São Paulo.) <br> _Will you be living in São Paulo?_ (Você estará morando em São Paulo?) | Ações em progressão no futuro.|
+| Present perfect| _I have lived in São Paulo._ (Eu morei em São Paulo.) <br> _I haven't lived in São Paulo._ (Eu não morei em São Paulo.) <br> _Have you lived in São Paulo?_ (Você morou em São Paulo?) | Para falar de experiências ou ações passadas que têm conexão com o presente. |
+| Past perfect | _I had lived in São Paulo._ (Eu tinha morado em São Paulo.) <br> _I hadn't lived in São Paulo._ (Eu não tinha morado em São Paulo.) <br> _Had you lived in São Paulo?_ (Você tinha morado em São Paulo?) | Uma ação no passado que aconteceu antes de outra em um tempo específico. |
+| Future perfect | _I will have lived in São Paulo._ (Eu terei morado em São Paulo.) <br> _I won't have lived in São Paulo._ (Eu não terei morado em São Paulo.) <br> _Will you have lived in São Paulo?_ (Você terá morado em São Paulo?)| Quando algo terá ocorrido no futuro. |
+| Present perfect continuous | _I have been living in São Paulo._ (Eu estou morando em São Paulo.) <br> _I haven't been living in São Paulo._ (Eu não estou morando em São Paulo.) <br> _Have you been living in São Paulo?_ (Você está morando em São Paulo?)| Usado para enfatizar a duração de uma ação em progresso até o momento da fala.|
+| Past perfect continuous| _I had been living in São Paulo._ (Eu estava morando em São Paulo.) <br> _I hadn't been living in São Paulo._ (Eu não estava morando em São Paulo.) <br> _Had you been living in São Paulo?_ (Você estava morando em São Paulo?) | Ações que estavam em progresso no passado e foram interrompidas por outra ação no passado também. |
+| Future perfect continuous | _I will have been living in São Paulo._ (Eu estarei morando em São Paulo.) <br> _I won't have been living in São Paulo._ (Eu não estarei morando em São Paulo.) <br> _Will you have been living in São Paulo?_ (Você estará morando em São Paulo?) | Ação que terá acontecido antes de um tempo no futuro. |
 
 ## Formas nominais dos verbos
 
@@ -99,17 +99,17 @@ Forma nominal que representa o verbo, nomeia uma ação ou estado, mas que é ne
 
 A forma infinitiva de um verbo é usualmente precedida por `to` (e.g. "to run," "to dance," "to think"), mas há exceção.
 
-- _I need **to run** every day._ Eu preciso correr todos dias.
-- _I must **run** every day._ Eu preciso correr todos dias.
-- _**To dance** was her passion._ Dançar era sua paixão.
+- _I need **to run** every day._ (Eu preciso correr todos dias.)
+- _I must **run** every day._ (Eu preciso correr todos dias.)
+- _**To dance** was her passion._ (Dançar era sua paixão.)
 
 ### Particípio
 
 Um particípio é uma forma do verbo usada com outro verbo para formar alguns tempos verbais e que pode também funcionar como adjetivo. O particípio presente é formado pelo terminação `-ing`, e o passado, pela terminação `-ed`, quando for verbo regular.
 
-- _She is having the time of her life._ Ela está vivendo o melhor momento da vida dela.
-- _He has decided to go there._ Ele decidiu ir lá.
-- _A balanced diet can help you._ Uma dieta equilibrada pode te ajudar.
+- _She is having the time of her life._ (Ela está vivendo o melhor momento da vida dela.)
+- _He has decided to go there._ (Ele decidiu ir lá.)
+- _A balanced diet can help you._ (Uma dieta equilibrada pode te ajudar.)
 
 ### Gerúndio
 
@@ -118,8 +118,8 @@ O gerúndio em inglês é formado pelo acréscimo do `-ing` ao verbo. Ele se dif
 > **Note**
 > O *gerund* (gerúndio) e particípio presente parecem ser a mesma coisa (terminam em `-ing`); porém, o gerúndio é quando transformamos um verbo em substantivo (substantivo verbal), enquanto o particípio presente, serve para formarmos os tempos verbais contínuos ou transformar um verbo em adjetivo.
 
-- _Smoking is hazardous to health._ Fumar é prejudicial à saúde.
-- _Fishing is my favorite activity._ Pescar é minha atividade favorite.
+- _Smoking is hazardous to health._ (Fumar é prejudicial à saúde.)
+- _Fishing is my favorite activity._ (Pescar é minha atividade favorite.)
 
 ## Verbos Irregulares (Irregular Verbs)
 
