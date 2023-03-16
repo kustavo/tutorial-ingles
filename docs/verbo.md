@@ -16,7 +16,7 @@ Os verbos principais podem ser classificados em transitivos ou intransitivos e p
 
 Os verbos principais (_main verbs_) possuem neles mesmos o sentido semântico e ocupam uma posição relevante para o significado completo da frase:
 
-- _Diana went home early yesterday._ (Diana foi cedo para a casa ontem.)
+> _Diana went home early yesterday._ <sup>(Diana foi cedo para a casa ontem.)</sup>
 
 O verbo principal da frase é `go` (ir), e, como pode ser observado, ele tem sentido completo sozinho. Além disso, notamos que está conjugado no passado simples. No presente, seria:
 
