@@ -31,9 +31,6 @@ Um pronome sujeito atua como sujeito do verbo (faz a ação do verbo). São eles
 | they (eles, elas) |            | 3ª         | masculino/feminino                                                  |
 
 
-
-
-
 ### Possessive pronouns (pronomes possessivos)
 
 ### Demonstrative pronouns (pronomes demonstrativos)
