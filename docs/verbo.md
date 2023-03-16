@@ -16,24 +16,24 @@ Os verbos principais podem ser classificados em transitivos ou intransitivos e p
 
 Os verbos principais (_main verbs_) possuem neles mesmos o sentido semântico e ocupam uma posição relevante para o significado completo da frase:
 
-> _Diana went home early yesterday._ <sup>(Diana foi cedo para a casa ontem.)</sup>
+> _Diana **went** home early yesterday._ <sub>(Diana foi cedo para a casa ontem.)</sub>
 
 O verbo principal da frase é `go` (ir), e, como pode ser observado, ele tem sentido completo sozinho. Além disso, notamos que está conjugado no passado simples. No presente, seria:
 
-- _Diana goes home._ <sub>(Diana vai para casa.)</sub>
+> _Diana **goes** home._ <sub>(Diana vai para casa.)</sub>
 
 Nesse exemplo, o verbo principal também não requer um auxiliar para completar seu sentido. No entanto, se fosse no futuro, precisaríamos utilizar o auxiliar do futuro `will`, que não tem sentido semântico nenhum, ele só "ajuda" na identificação da oração que está flexionada no futuro:
 
-- _Diana will go home._ (Diana irá para casa.)
+> _Diana will **go** home._ <sub>(Diana irá para casa.)</sub>
 
 #### Verbos transitivos e intransitivos
 
 Os verbos principais podem ainda ser divididos em transitivos ou intransitivos, no que diz respeito se eles são acompanhados ou não de objeto, tal qual em português.
 
 - **Verbos intransitivos**: não são seguidos por objeto, mas podem ter complemento:
-    - _Something bad happened._ (Algo ruim aconteceu.)
-    - _He has arrived early_ (Ele chegou cedo.)
-        - `early` (cedo) não é objeto, é adjunto adverbial.
+    > - _Something bad **happened**._ (Algo ruim aconteceu.)
+    > - _He has **arrived** early_ (Ele chegou cedo.)
+    >   - `early` (cedo) não é objeto, é adjunto adverbial.
 
 - **Verbos transitivos**: são acompanhados por um objeto:
     - _She isn't watching TV._ (Ela não está assistindo TV.)
