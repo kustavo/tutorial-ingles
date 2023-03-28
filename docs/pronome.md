@@ -114,11 +114,86 @@ No exemplo: _Where is John? Give the list to **him**_, o pronome `him` é objeto
 
 ### Possessive pronouns (pronomes possessivos)
 
-// TODO:
+Os pronomes possessivos fazem uma referência às pessoas do discurso indicando uma relação de posse. São eles:
+
+| **Pronome**                                | **Número** | **Pessoa** | **Gênero**         |
+|--------------------------------------------|------------|------------|--------------------|
+| mine <sub>(meu(s), minha(s))</sub>                     | Singular   | 1ª         | masculino/feminino |
+| yours <sub>(teu(s), tua(s),seu(s), sua(s))</sub>       |            | 2ª         | masculino/feminino |
+| his <sub>(dele(s))</sub>                               |            | 3ª         | masculino          |
+| hers <sub>(dela(s))</sub>                              |            |            | feminino           |
+| its <sub>(dele(s), dela(s))</sub>                      |            |            | neutro             |
+| ours <sub>(nosso(s), nossa(s))</sub>                   | Plural     | 1ª         | masculino/feminino |
+| yours <sub>(vosso(s), vossa(s), seu(s), suas(s))</sub> |            | 2ª         | masculino/feminino |
+| theirs <sub>(dele(s), dela(s))</sub>                   |            | 3ª         | masculino/feminino |
+
+Exemplos:
+
+- _This book is **mine**._ <sub>(Este livro é meu)</sub>
+- _Have you lost **yours**, Tom?_ <sub>(Você perdeu o seu, Tom?)</sub>
+- _This pen is **mine** and that one is **his**._ <sub>(Esta caneta é minha e aquela é sua)</sub>
+- _Sarah has lost her cat. Is this cat **hers**?_ <sub>(Sarah perdeu seu gato. Este é o gato dela?)</sub>
+- _I can see our car, but where is **yours**?_ <sub>(Eu posso ver o nosso carro, mas onde está o seu?)</sub>
+- _We've had our lunch, but they haven't had **theirs**._ <sub>(Nós tivemos o nosso almoço, mas eles não tiveram o deles)</sub>
+
+Os pronomes possessivos nunca são usados antes de substantivo, pois sua função é substitui-lo a fim de evitar repetição:
+
+- _Is that car yours?_ <sub>(Aquele carro é o seu?)</sub>
+
+Os pronomes possessivos, em inglês, concordam sempre com o possuidor, diferentemente do português, em que a concordância se faz com o elemento possuído:
+
+- _I have my house and **you** have **yours**._ <sub>(Eu tenho a minha casa e você tem a sua)</sub>
+- _The **country** and **its** inhabitants._ <sub>(O país e seus habitantes)</sub>
+
+> **Note**
+> É importante lembrar que os pronomes possessivos são bastantes similares aos adjetivos possessivos como _my_ <sub>(meu)</sub>, _her_ <sub>(dela)</sub>, e _their_ <sub>(deles)</sub>.
+> Os Pronomes Possessivos, em inglês, **não se flexionam**, ou seja, valem tanto para o singular como para o plural.
+
+- _This copybook is **ours**._ <sub>(Este caderno é nosso)</sub>
+- _These copybooks are **ours**._ <sub>(Estes cadernos são nossos)</sub>
+- _This car is **mine**._ <sub>(Este carro é meu)</sub>
+- _These cars are **mine**._ <sub>(Estes carros são meus)</sub>
+
+Os Pronomes Possessivos podem ser usados em construções com a preposição _of_ <sub>(de, do)</sub>.
+
+- _Daniel and John are friends **of ours**._ <sub>(Daniel e João são nossos amigos)</sub>
+- _She is a relative **of his**._ <sub>(Ela é parente dele)</sub>
+- _He was an enemy **of hers**._ <sub>(Ele era um inimigo dela)</sub>
+
+Em inglês, nunca se usa artigo _the_ <sub>(o, a)</sub>, _a_ <sub>(um, uma)</sub> _an_ <sub>(uns, umas)</sub> antes dos pronomes possessivos.
+
+- _My songs are good, but not like ~~the~~ his._ <sub>(Minhas músicas são boas, mas não como as dele)</sub>
+- _~~The~~ my book._ <sub>(O meu livro)</sub>
 
 ### Demonstrative pronouns (pronomes demonstrativos)
 
+Os pronomes demonstrativos demonstram a posição de algo em relação às pessoas do discurso, situando-os no espaço, no tempo ou no próprio discurso. São eles:
+
+| **Número** | **Próximo**            | **Distante**                                   |
+|------------|------------------------|------------------------------------------------|
+| singular   | this <sub>(este, esta, isto)</sub> | that <sub>(aquele, aquela, aquilo, esse, essa, isso)</sub> |
+| plural     | these <sub>(estes, estas)</sub>    | those <sub>(aqueles, aquelas, esses, essas)</sub>          |
+
+_This_ e _these_ se referem a elementos que estão próximas no espaço ou no tempo, enquanto _that_ e _those_ se referem a coisas que estão mais distantes no espaço ou no tempo.
+
+- _**This** is my desk._ <sub>(Esta é a minha mesa)</sub>
+- _**These** are my pets._ <sub>(Estes são meus animais de estimação)</sub>
+- _**This** is the Mings'house._ <sub>(Esta é a casa dos Ming)</sub>
+- _**These** are sheep but those are goats._ <sub>(Estas são ovelhas, mas essas são as cabras)</sub>
+- _**Those** are horses._ <sub>(Esses são cavalos)</sub>
+- _**That's** my mother's car._ <sub>(Esse é o carro da minha mãe)</sub>
+- _You'll have to work harder than **this**._ <sub>(Você vai ter que trabalhar mais do que isso)</sub>
+- _We can do better than **that**._ <sub>(Nós podemos fazer melhor do que isso)</sub>
+- _It's raining again. **This** is awful!_ <sub>(Está chovendo novamente. Isso é horrível!)</sub>
+- _Who is **that** knocking at the door?_ <sub>(Quem é aquele batendo na porta?)</sub>
+- _Hi, Kathleen. **This** is Michael._ <sub>(Oi, Kathleen. Este é Michael)</sub>
+
+> **Note**
+> É importante lembrar que _that_ também podem ser usados como pronome relativo e que os pronomes demonstrativos são idênticos aos adjetivos demonstrativos, entretanto, com funções diferentes.
+
 ### Reflexive pronouns (pronomes reflexivos)
+
+// TODO:
 
 ### Intensive pronouns (pronomes intensivos)
 
