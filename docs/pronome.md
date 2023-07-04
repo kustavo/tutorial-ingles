@@ -116,16 +116,16 @@ No exemplo: _Where is John? Give the list to **him**_, o pronome `him` é objeto
 
 Os pronomes possessivos fazem uma referência às pessoas do discurso indicando uma relação de posse. São eles:
 
-| **Pronome**                                | **Número** | **Pessoa** | **Gênero**         |
-|--------------------------------------------|------------|------------|--------------------|
-| mine <sub>(meu(s), minha(s))</sub>                     | Singular   | 1ª         | masculino/feminino |
-| yours <sub>(teu(s), tua(s),seu(s), sua(s))</sub>       |            | 2ª         | masculino/feminino |
-| his <sub>(dele(s))</sub>                               |            | 3ª         | masculino          |
-| hers <sub>(dela(s))</sub>                              |            |            | feminino           |
-| its <sub>(dele(s), dela(s))</sub>                      |            |            | neutro             |
-| ours <sub>(nosso(s), nossa(s))</sub>                   | Plural     | 1ª         | masculino/feminino |
-| yours <sub>(vosso(s), vossa(s), seu(s), suas(s))</sub> |            | 2ª         | masculino/feminino |
-| theirs <sub>(dele(s), dela(s))</sub>                   |            | 3ª         | masculino/feminino |
+| **Pronome**                                             | **Número** | **Pessoa** | **Gênero**         |
+|---------------------------------------------------------|------------|------------|--------------------|
+| mine <sub>(meu(s), minha(s))</sub>                      | Singular   | 1ª         | masculino/feminino |
+| yours <sub>(teu(s), tua(s),seu(s), sua(s))</sub>        |            | 2ª         | masculino/feminino |
+| his <sub>(dele(s))</sub>                                |            | 3ª         | masculino          |
+| hers <sub>(dela(s))</sub>                               |            |            | feminino           |
+| its <sub>(dele(s), dela(s))</sub>                       |            |            | neutro             |
+| ours <sub>(nosso(s), nossa(s))</sub>                    | Plural     | 1ª         | masculino/feminino |
+| yours <sub>(vosso(s), vossa(s), seu(s), suas(s))</sub>  |            | 2ª         | masculino/feminino |
+| theirs <sub>(dele(s), dela(s))</sub>                    |            | 3ª         | masculino/feminino |
 
 Exemplos:
 
@@ -193,13 +193,79 @@ _This_ e _these_ se referem a elementos que estão próximas no espaço ou no te
 
 ### Reflexive pronouns (pronomes reflexivos)
 
-// TODO:
+Os pronomes reflexivos são usados para indicar que a ação reflexiva recai sobre o próprio sujeito. Nesse caso, o pronome vem logo após o verbo e concorda com o sujeito. Estes pronomes se caracterizam pelas terminações `self` (no singular) e `selves` (no plural). Para cada pronome pessoal existe um pronome reflexivo. São eles:
+
+| **Pronome**                                                     | **Número** | **Pessoa** | **Gênero**          |
+|-----------------------------------------------------------------|------------|------------|---------------------|
+| myself <sub>(a mim mesmo, -me)</sub>                            |  Singular  |  1ª        |  masculino/feminino |
+| yourself <sub>(a ti, a você mesmo(a), -te,-se)</sub>            |            |  2ª        |  masculino/feminino |
+| himself <sub>(a si, a ele mesmo, -se)</sub>                     |            |  3ª        |  masculino          |
+| herself <sub>(a si, a ela mesma, -se)</sub>                     |            |            |  feminino           |
+| itself <sub>(a si mesmo(a), -se)</sub>                          |            |            |  neutro             |
+| ourselves <sub>(a nós mesmos(as), -nos)</sub>                   |  Plural    |  1ª        |  masculino/feminino |
+| yourselves <sub>(a vós, a vocês mesmos(as), -vos,-se)</sub>     |            |  2ª        |  masculino/feminino |
+| themselves <sub>(a si, a eles mesmos, a elas mesmas, -se)</sub> |            |  3ª        |  masculino/feminino |
+
+Para entender melhor os pronomes reflexivos veja o que acontece com a ação do verbo nos exemplos abaixo:
+
+No exemplo abaixo, a ação do verbo recai sobre o objeto, que é a melancia:
+
+- _The girl cut the watermelon with a knife._ <sub>(A menina cortou a melancia com uma faca)</sub>
+- Quem cortou? _the girl_ <sub>(a menina)</sub>
+- O que foi cortado? _the watermelon_ <sub>(a melancia)</sub>
+
+No exemplo abaixo, a ação do verbo recai sobre o próprio sujeito que a praticou:
+
+- _The girl cut herself with a knife._ <sub>(A garota cortou-se com uma faca)</sub>
+- Quem cortou? _the girl_ <sub>(a menina)</sub>
+- O que foi cortado? _the girl_ <sub>(a menina)</sub>
+
+O pronome reflexivo usado em função reflexiva indica que a ação do verbo recai sobre o próprio sujeito que a praticou. Desse modo, o pronome vem imediatamente após o verbo e concorda com o sujeito.
+
+Os pronomes reflexivos podem ser precedidos pela preposição `by` <sub>(por, pelo, pela)</sub>. Nesse caso, os pronomes reflexivos têm o sentido de sozinho(a), sozinhos(as). Algumas vezes, a palavra `all` é colocada antes de `by`, servindo então como enfatizante.
+
+Exemplos:
+
+- _She was waiting for her husband **by herself**._ <sub>(Ela estava esperando sozinha pelo seu marido)</sub>
+- _She was waiting for her husband **all by herself**._ <sub>(Ela estava esperando completamente sozinha pelo seu marido)</sub>
+- _Did you go to the park **by yourself**?_ <sub>(Você foi ao parque sozinho?)</sub>
+- _Sometimes Richard prefers to be **by himself**._ <sub>(Às vezes Ricardo prefere ficar/estar sozinho)</sub>
+- _She likes making everything **by herself**._ <sub>(Ela gosta de fazer tudo sozinha)</sub>
 
 ### Intensive pronouns (pronomes intensivos)
 
+Pronomes intensivos são idênticos aos pronomes reflexivos, entretanto, são usados para dar ênfase à pessoa que pratica a ação. Em tais casos, a oração faria sentido mesmo se o pronome intensivo fosse omitido.
+
+Exemplos:
+
+_**Jorge** wrote the letter **himself**._ <sub>(O próprio Jorge escreveu a carta)</sub>
+_**I** will do my homework **myself**._ <sub>(Eu própria/mesma farei minha lição de casa)</sub>
+_**They** raised the children **themselves**._ <sub>(Eles próprios criaram os filhos)</sub>
+
 ### Reciprocal pronouns (pronomes recíprocos)
 
+Pronomes recíprocos são usados ​​para indicar uma ação mútua ou recíproca dos sujeitos do verbo. São eles:
+
+_each other_ <sub>(um ao outro, mutuamente, se, uns aos outros)</sub>
+_one other_ <sub>(um ao outro, mutuamente, se, uns aos outros) (mesmo significado!)</sub>
+
+Algumas pessoas dizem que deve-se usar `one another` apenas para três ou mais pessoas ou coisas, mas não há nenhuma justificativa real para isso.
+Muitas vezes os pronomes `one another` e `each other` são usados sem nenhuma distinção. Sendo each other o mais comumente usado.
+
+Observe a diferença entre os pronomes reflexivos `ourselves`, `yourselves` e `themselves` e os `pronomes` recíprocos each other e one other nos exemplos abaixo:
+
+Exemplos:
+
+- _Julia and I looked at **ourselves** in the mirror._ <sub>(Julia e eu olhamos para nós mesmas no espelho)</sub>
+- _Julia and I looked **each other** and started to laugh._ <sub>(Julia e eu olhamos uma para a outra (nos olhamos) e começamos a rir)</sub>
+- _Our mother thinks that we should be more careful to **each other**._ <sub>(Nossa mãe acha que deveríamos ser mais cuidosos um com o outro)</sub>
+- _Make sure you and Julia don't hurt **yourselves**!_ <sub>(Cuidem-se para que você e Julia não se machuquem!)</sub>
+- _Julia and I enjoyed very much **ourselves** during the party._ <sub>(Julia e eu nos divertimos muito durante a festa)</sub>
+- _Julia and I don't see **one other** every day._ <sub>(Julia e eu não nos vemos / não vemos uma a outra todos os dias)</sub>
+
 ### Interrogative pronouns (pronomes interrogativos)
+
+// TODO:
 
 ### Relative pronouns (pronomes relativos)
 
