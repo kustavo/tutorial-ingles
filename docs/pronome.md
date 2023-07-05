@@ -265,11 +265,205 @@ Exemplos:
 
 ### Interrogative pronouns (pronomes interrogativos)
 
-// TODO:
+Pronomes interrogativos são usados para fazer perguntas. São eles: 
+
+- _**what**_ <sub>(o que, que)</sub> | _**whatever**_
+- _**which**_ <sub>(qual, quais)</sub> | _**whichever**_
+- _**who**_ <sub>(quem - usado como sujeito da oração)</sub> | _**whoever**_
+- _**whom**_ <sub>(quem - usado como objeto da oração)</sub> | _**whomever**_
+
+Os interrogativos compostos de `ever` são usados para dar ênfase, e exprimem surpresa, impaciência ou desagrado.
+
+O pronome possessivo `whose` <sub>(de quem)</sub> também pode ser um pronome interrogativo (um pronome interrogativo possessivo).
+
+Exemplos:
+
+- _**Who** told you these lies?_ <sub>(Quem lhe contou estas mentiras?)</sub>
+- _**Who** is that tall man?_ <sub>(Quem é aquele homem alto?)</sub>
+- _**With** whom did you go to the park?_ <sub>(Com quem você foi ao parque?)</sub>
+- _**Whom** did you meet at the beach?_ <sub>(Quem você encontrou na praia?)</sub>
+- _To **whom** were you speaking last night?_ <sub>(Com quem você estava falando ontem à noite?)</sub>
+- _**Whose** is that dog?_ <sub>(De quem é aquele cachorro?)</sub>
+- _**Whose** is this pen?_ <sub>(De quem é esta caneta?)</sub>
+- _**Which** of those girls is your girlfriend?_ <sub>(Qual daquelas meninas é a sua namorada?)</sub>
+- _**Which** are the best libraries of this city?_ <sub>(Quais são as melhores livrarias desta cidade?)</sub>
+- _**Which** t-shirt do you prefer: the yellow one or the blue one?_ <sub>(Qual camiseta você prefere: a amarela ou a azul?)</sub>
+- _**What** time is our flight?_ <sub>(Que horas é o nosso voo?)</sub>
+- _**What** were you doing in the bank?_ <sub>(O que você estava fazendo no banco?)</sub>
+- _**What** do you want to drink?_ <sub>(O que você quer tomar?)</sub>
+- _**Whoever** told you he is my boyfriend?_ <sub>(Mas quem é que te disse que ele é meu namorado?)</sub>
+- _**Whatever** gave you the idea that I can sing?_ <sub>(Mas que ideia é essa que te deu que eu sei cantar?)</sub>
+- _**Whichever** way did he go?_ <sub>(Mas em que direção ele foi?)</sub>
+
+É importante lembrar que `which` e `what` também podem ser usados como adjetivos interrogativos, e `who`, `whom`, e `which` também podem ser usados como pronomes relativos.
 
 ### Relative pronouns (pronomes relativos)
 
+Pronomes relativos representam substantivos já mencionados anteriormente e com os quais se relacionam. São eles:
+
+- _**which**_ <sub>(que, o que, o qual)</sub> | _**whichever**_
+- _**who**_ <sub>(que, o qual - usado como sujeito da oração)</sub> | _**whoever**_
+- _**whom**_ <sub>(que, o qual - usado como objeto da oração)</sub> | _**whomever**_
+- _**whose**_ <sub>(cujo, cuja, cujos, cujas)</sub>
+- _**that**_ <sub>(que)</sub>
+
+Os relativos compostos de `ever` são usados para dar ênfase, e exprimem surpresa, impaciência ou desagrado.
+
+Em certas situações, `what`, `when` e `where` podem comportar como pronomes relativos.
+
+Os pronomes relativos podem exercer a função de **sujeito** ou **objeto do verbo principal**. Lembre-se de que quando o pronome relativo for seguido por um verbo, ele exerce função de sujeito. Caso o pronome relativo for seguido por um substantivo ou pronome, ele exerce função de objeto.
+
+Quando o antecedente for uma pessoa e o pronome relativo exercer a função de sujeito do verbo , usa-se `who` ou `that`.
+
+Exemplo:
+
+- _The boy **who** / **that** arrived is blond._ <sub>(O menino que chegou é loiro)</sub>
+
+Quando o antecedente for uma pessoa e o pronome relativo exercer a função de objeto do verbo, usa-se `who`, `whom`, `that` ou pode-se omitir o pronome relativo. Contudo, essa omissão só pode ocorrer quando o relativo exercer função de objeto.
+
+Exemplo:
+
+- _The girl **who** / **whom** / **that** / **(omitido)** I saw in the beach was beautiful._ <sub>(A menina que vi na praia era bonita)</sub>
+
+> **Note**\
+> Na linguagem informal é comum empregar `who` em vez de `whom`.
+
+Quando o antecedente for coisa ou animal e o pronome relativo exercer a função de sujeito do verbo, usa-se `which` ou `that`.
+
+Exemplos:
+
+- _The cat **that** / **which** is in the garden belongs to my sister._ <sub>(O gato que está no jardim pertence à minha irmã)</sub>
+- _The brown guitar **that** / **which** was on the table is mine._ <sub>(O violão marrom que estava em cima da mesa é meu)</sub>
+
+O pronome `who` também pode referir-se a animais que tenham nomes ou são conhecidos, como Lassie, por exemplo.
+
+Quando o antecedente for coisa ou animal e o pronome relativo exercer a função de objeto, usa-se `which`, `that` ou pode-se omitir o pronome relativo.
+
+Exemplos:
+
+- _The brown guitar **which** / **that** / **(omitido)** he was playing belongs to me._ <sub>(O violão marrom que ele estava tocando pertence a mim)</sub>
+- _The cat **which** / **that** / **(omitido)** I saw in the garden was mewing._ <sub>(O gato que eu vi no jardim estava miando)</sub>
+
+> **Note**\
+> Lembre-se: Quando o pronome relativo for seguido por um verbo, ele exerce função de **sujeito**. Caso o pronome relativo seja seguido por um substantivo, artigo, pronome ou outra classe de palavra, ele exerce função de **objeto**.
+
+O pronome `that` é usado quando:
+
+- Quando houver **dois antecedentes** <sub>(pessoa e animal ou pessoa e coisa)</sub>, exemplos:
+    - _I know the **singers** and the **songs that** she mentioned._ <sub>(Conheço os cantores e as músicas que ela mencionou)</sub>
+- Após adjetivos no superlativo, `first` e `last`, exemplos:
+    - _She is the **sweetest** woman **that** I have ever met._ <sub>(Ela é a mulher mais doce que já conheci)</sub>
+    - _The **last** time **that** I saw him was in May._ <sub>(A última vez que o vi foi em Maio)</sub>
+    - _The **first** thing **that** you have to do is call the police._ <sub>(A primeira coisa que você tem que fazer é ligar para a polícia)</sub>
+- Após `all`, `only`, `everything`, `none`, `some`, `any`, `no` e seus compostos, exemplos:
+    - _She ate something **that** we never saw._ <sub>(Ela comeu algo que nós nunca vimos)</sub>
+
+> **Note**\
+> Lembre-se: Os pronomes relativos só podem ser omitidos quando funcionam como objeto, nunca quando exercem função de sujeito.
+
+O pronome relativo `whose` <sub>(cujo, cuja, cujos, cujas)</sub> estabelece uma relação de posse e é usado com qualquer antecedente. Esse pronome é sempre seguido por um substantivo e **nunca** pode ser omitido. Exemplo:
+
+- _The cat **whose** owner is my sister was in the garden._ <sub>(O gato cuja dona é minha irmã estava no jardim)</sub>
+
+`Where` <sub>(onde, em que, no que, no qual, na qual, nos quais, nas quais)</sub> pode ser usado como pronome relativo, referindo a lugar ou lugares.
+
+- _The place **where** I live is far from here._ <sub>(O lugar onde moro é / fica longe daqui)</sub>
+
+`When` <sub>(quando, em que, no qual, na qual, nos quais, nas quais)</sub> pode ser usado como pronome relativo, referindo a dia(s), mês, meses, ano(s), etc.
+
+- _I will always remember the day **when** we met each other._ <sub>(Sempre me lembrarei do dia em que nos conhecemos)</sub>
+- _We will get married **when** you get a job._ <sub>(Nós iremos casar quando você conseguir um emprego)</sub>
+
+`What` <sub>(o que)</sub> pode ser usado como pronome relativo exercendo função de sujeito ou objeto.
+
+- _I don't know **what** happened yesterday._ <sub>(Não sei o que aconteceu ontem)</sub>
+- _**What** is this?_ <sub>(O que é isto?)</sub>
+
+Os relativos compostos de `ever` são usados para dar ênfase, e exprimem surpresa, impaciência ou desagrado.
+
+Exemplos:
+
+- _Was he free to marry **whomever** he chose._ <sub>(Ele era livre para se casar com quem quer que ele escolhesse)</sub>
+- _Give it to **whomever** you please._ <sub>(Dê isto a quem quer que você prefira)</sub>
+- _**Whoever** is knocking on the door, I won’t open._ <sub>(Quem quer que esteja batendo na porta, eu não abrirei)</sub>
+- _**Wherever** you go, I will visit you._ <sub>(Onde quer que você vá, eu vou te visitar)</sub>
+- _**Whenever** he visits his girlfriend, he buys flowers._ <sub>(Quando quer que ele visite sua namorada, ele compra flores)</sub>
+- _I will read **whichever** manuscript arrives first._ <sub>(Eu lerei o manuscrito que chegar primeiro)</sub>
+
 ### Indefinite pronouns (pronomes indefinidos)
+
+Pronomes indefinidos referem-se a substantivos, dando-lhes sentido vago, impreciso, genérico ou expressando quantidade indeterminada. Os pronomes mais comuns são:
+
+|                      Pronome                      |                                           Significado                                          |        Número       |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------|
+|  _all_ (tudo, todas, todos)                       |  toda a quantidade de algo, coisas ou pessoas                                                  |  singular e plural  |
+|  _another_ (um outro)                             |  uma pessoa ou coisa diferente ou adicional                                                    |  singular           |
+|  _any_ (algum, alguma, qualquer um, qualquer uma) |  não importa o quanto ou quantos                                                               |  singular ou plural |
+|  _anybody, anyone_ (alguém, qualquer pessoa)      |  não importa qual pessoa                                                                       |  singular           |
+|  _anything_ (algo)                                |  não importa que coisa                                                                         |  singular           |
+|  _both_ (ambos)                                   |  duas pessoas ou coisas, vistas juntas                                                         |  plural             |
+|  _each_ (cada, cada um)                           |  cada uma das duas ou mais pessoas ou coisas, vistas separadamente                             |  singular           |
+|  _either_ (ambos, qualquer um)                    |  uma ou a outra das duas pessoas ou coisas                                                     |  singular           |
+|  _enough_ (bastante, suficiente)                  |  tanto quanto ou tanto como necessário                                                         |  singular           |
+|  _everybody, everyone_ (todos, todo o mundo)      |  todas as pessoas                                                                              |  singular           |
+|  _everything_ (tudo)                              |  todas as coisas                                                                               |  singular           |
+|  _few_ (poucos, poucas)                           |  um pequeno número de pessoas ou coisas                                                        |  plural             |
+|  _fewer_ (menos)                                  |  um número reduzido de pessoas ou coisas                                                       |  plural             |
+|  _less_ (menos)                                   |  a smaller amount                                                                              |  singular           |
+|  _little_ (pouco)                                 |  uma pequena quantidade                                                                        |  singular           |
+|  _many_ (muitos, muitas)                          |  a large number of people or things                                                            |  plural             |
+|  _more_ (mais)                                    |  uma maior quantidade de algo, um maior número de pessoas ou coisas                            |  singular ou plural |
+|  _most_ (mais)                                    |  a maioria, quase todos                                                                        |  singular ou plural |
+|  _much_ (muito)                                   |  uma grande quantidade                                                                         |  singular           |
+|  _neither_ (nenhum)                               |  nem uma e nem outra de duas pessoas ou coisas                                                 |  singular           |
+|  _nobody_ (ninguém)                               |  nenhuma pessoa, ninguém                                                                       |  singular           |
+|  _none_ (nenhum)                                  |  nenhuma pessoa ou pessoas                                                                     |  singular ou plural |
+|  _nothing_ (nada)                                 |  nenhuma coisa, nada                                                                           |  singular           |
+|  _one_ (um)                                       |  uma pessoa não identificada                                                                   |  singular           |
+|  _other_ (outro, outra, outros, outras)           |  uma outra pessoa ou coisa a partir de uma já mencionada                                       |  singular           |
+|  _others_ (outros, outras)                        |  outras pessoas, não nós                                                                       |  plural             |
+|  _several_ (vários, diversos)                     |  mais do que dois, mas não muitos                                                              |  plural             |
+|  _some_ (algum, alguma, alguns, algumas)          |  uma quantidade não especificada de alguma coisa, um número indeterminado de pessoas ou coisas |  singular ou plural |
+|  _somebody_ (alguém)                              |  uma pessoa indeterminada ou desconhecida                                                      |  singular           |
+|  _something, someone_ (algo, alguma coisa)        |  uma coisa indeterminada ou desconhecida                                                       |  singular           |
+|  _such_ (tal)                                     |  uma coisa indeterminada ou desconhecida                                                       |  singular ou plural |
+
+Exemplos:
+
+- _All had been written on the blackboard_ <sub>(Tudo tinha sido escrito no quadro-negro)</sub>
+- _This example won't do. I'll give you another._ <sub>(Este exemplo não serve. Te darei um outro)</sub>
+- _Have you read any of these magazines?_ <sub>(Você leu alguma (ou algumas) destas revistas?)</sub>
+- _Can anyone answer this question?_ <sub>(Alguém pode responder esta pergunta?)</sub>
+- _Is there anything in this box?_ <sub>(Há algo nesta caixa?)</sub>
+- _John likes coffee but not tea. I think both are good._ <sub>(John gosta de café, mas não de chá. Eu acho que ambos são bons)</sub>
+- _Each has his own thoughts._ <sub>(Cada um tem seus próprios pensamentos)</sub>
+- _Do you want tea or coffee? I don't mind. Either is good for me._ <sub>(Você quer chá ou café? Não me importo. Qualquer um está bom para mim)</sub>
+- _Is that enough?_ <sub>(Isso é bastante?)</sub>
+- _Everybody went out._ <sub>(Todos saíram)</sub>
+- _He cannot carry everything._ <sub>(Ele não pode carregar tudo)</sub>
+- _Very few were elected._ <sub>(Muito poucos foram eleitos)</sub>
+- _Fewer are smoking these days._ <sub>(Menos estão fumando nestes dias)</sub>
+- _Less is more_ <sub>(Menos é mais)</sub>
+- _Little is known about his life._ <sub>(Pouco se sabe sobre sua vida)</sub>
+- _Many have come already._ <sub>(Muitos já estão vindo)</sub>
+- _More are coming._ <sub>(Mais estão vindo)</sub>
+- _Most have refused._ <sub>(A maioria tem recusado)</sub>
+- _Much of what he says is false._ <sub>(Muito do que ele diz é falso)</sub>
+- _I keep telling Jack and Jill but neither believes me._ <sub>(Eu continuo dizendo a Jack e Jill, mas nem um e nem outro acredita em mim)</sub>
+- _Nobody came yesterday._ <sub>(Ninguém veio ontem)</sub>
+- _None of them will come._ <sub>(Nenhum deles virá)</sub>
+- _If you don't know the answer it's best to say nothing._ <sub>(Se você não sabe a resposta, é melhor não dizer nada)</sub>
+- _All the students arrived but now one is missing._ <sub>(Todos os alunos chegaram, mas agora um está faltando)</sub>
+- _One was tall and the other was short._ <sub>(Um era alto e o outro era baixo)</sub>
+- _I'm sure that others have tried before us._ <sub>(Tenho certeza que outros têm tentado antes de nós)</sub>
+- _They all complained and several left the meeting._ <sub>(Todos eles reclamaram e vários saíram da reunião)</sub>
+- _Some were rescued._ <sub>(Alguns foram salvos)</sub>
+- _Clearly somebody murdered him. It was not suicide._ <sub>(É evidente que alguém o assassinou. Não foi suicídio)</sub>
+- _Listen! I just heard something! What could it be?_ <sub>(Ouça! Acabei de ouvir alguma coisa! O que poderia ser?)</sub>
+- _He was a foreigner and he felt that he was treated as such._ <sub>(Ele era um estrangeiro e ele sentiu que era tratada como tal)</sub>
+
+> **Note**
+> É importante lembrar que os pronomes indefinidos também podem ser usados como adjetivos indefinidos.
 
 ## Referências
 
